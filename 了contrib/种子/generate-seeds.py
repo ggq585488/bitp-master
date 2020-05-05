@@ -22,10 +22,10 @@ These files must consist of lines in the format
 
 The output will be two data structures with the peers in binary format:
 
-   static SeedSpec6 pnSeed6_main[]={
+   static SeedSpec6 pnSeed6_main[2]={
    ...
    }
-   static SeedSpec6 pnSeed6_test[]={
+   static SeedSpec6 pnSeed6_test[2]={
    ...
    }
 
